@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Add Contact Match Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingTop": 30,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "#e5e5e5",
+              "borderRadius": 35,
+              "borderWidth": 1,
+              "height": 70,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "width": 70,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Text
+              style={
+                Object {
+                  "textAlign": "center",
+                }
+              }
+              testID="add-image-button"
+            >
+              Add Image
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 3,
+            "paddingLeft": 20,
+          }
+        }
+      >
+        <TextInput
+          allowFontScaling={true}
+          onChangeText={[Function]}
+          placeholder="Enter First Name"
+          rejectResponderTermination={true}
+          style={
+            Object {
+              "borderBottomColor": "#e5e5e5",
+              "borderBottomWidth": 0.5,
+              "height": 40,
+            }
+          }
+          testID="first-name"
+          underlineColorAndroid="transparent"
+        />
+        <TextInput
+          allowFontScaling={true}
+          onChangeText={[Function]}
+          placeholder="Enter Last Name"
+          rejectResponderTermination={true}
+          style={
+            Object {
+              "borderBottomColor": "#e5e5e5",
+              "borderBottomWidth": 0.5,
+              "height": 40,
+            }
+          }
+          testID="last-name"
+          underlineColorAndroid="transparent"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontSize": 18,
+            "paddingLeft": 8,
+          }
+        }
+      >
+        Mobile
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="number-pad"
+        maxLength={10}
+        onChangeText={[Function]}
+        placeholder="Add mobile"
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "borderBottomColor": "#e5e5e5",
+            "borderBottomWidth": 0.5,
+            "flex": 3,
+            "height": 40,
+            "marginLeft": 22,
+          }
+        }
+        testID="mobile"
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;

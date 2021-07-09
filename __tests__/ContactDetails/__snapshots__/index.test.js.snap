@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TEst Contact detail page Match Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "height": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "padding": 8,
+        "paddingBottom": 78,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#e5e5e5",
+            "borderRadius": 35,
+            "borderWidth": 1,
+            "height": 70,
+            "justifyContent": "center",
+            "overflow": "hidden",
+            "width": 70,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 25,
+              "height": 50,
+              "overflow": "hidden",
+              "width": 50,
+            }
+          }
+          testID="image"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "padding": 4,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "padding": 4,
+          }
+        }
+        testID="full-name"
+      >
+        Manav
+         
+        Mandal
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-evenly",
+          "padding": 8,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "borderRadius": 24,
+            "height": 44,
+            "margin": 7,
+            "overflow": "hidden",
+            "width": 44,
+          }
+        }
+      >
+        <View
+          testID="comment-icon"
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#4d90fe",
+                "borderRadius": 24,
+                "height": 44,
+                "justifyContent": "center",
+                "width": 44,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 20,
+                  },
+                  Object {
+                    "backgroundColor": "transparent",
+                  },
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              testID="iconIcon"
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderRadius": 24,
+            "height": 44,
+            "margin": 7,
+            "overflow": "hidden",
+            "width": 44,
+          }
+        }
+      >
+        <View
+          testID="phone-icon"
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#4d90fe",
+                "borderRadius": 24,
+                "height": 44,
+                "justifyContent": "center",
+                "width": 44,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 20,
+                  },
+                  Object {
+                    "backgroundColor": "transparent",
+                  },
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              testID="iconIcon"
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderRadius": 24,
+            "height": 44,
+            "margin": 7,
+            "overflow": "hidden",
+            "width": 44,
+          }
+        }
+      >
+        <View
+          testID="camera-icon"
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#4d90fe",
+                "borderRadius": 24,
+                "height": 44,
+                "justifyContent": "center",
+                "width": 44,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 20,
+                  },
+                  Object {
+                    "backgroundColor": "transparent",
+                  },
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              testID="iconIcon"
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderRadius": 24,
+            "height": 44,
+            "margin": 7,
+            "overflow": "hidden",
+            "width": 44,
+          }
+        }
+      >
+        <View
+          testID="envelope-icon"
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#4d90fe",
+                "borderRadius": 24,
+                "height": 44,
+                "justifyContent": "center",
+                "width": 44,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 20,
+                  },
+                  Object {
+                    "backgroundColor": "transparent",
+                  },
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              testID="iconIcon"
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 3,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#fff",
+          "padding": 8,
+          "paddingBottom": 0,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 18,
+          }
+        }
+        testID="mobile-label"
+      >
+        Mobile
+      </Text>
+      <Text
+        style={
+          Object {
+            "borderBottomColor": "#e7e7e7",
+            "borderBottomWidth": 0.5,
+            "color": "#4d90fe",
+            "fontSize": 26,
+            "paddingBottom": 6,
+            "paddingTop": 6,
+          }
+        }
+        testID="mobile"
+      >
+        +91
+         
+        9999999999
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-around",
+          "marginTop": 40,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "marginLeft": 20,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          testID="delete-button"
+        >
+          <Text
+            style={
+              Object {
+                "backgroundColor": "red",
+                "color": "#fff",
+                "fontWeight": "bold",
+                "padding": 8,
+              }
+            }
+          >
+            Delete Contact
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

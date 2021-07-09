@@ -1,0 +1,8 @@
+export const SET_CONTACTS = 'SET_CONTACTS'
+export const ADD_CONTACT = 'ADD_CONTACT'
+export const UPDATE_CONTACT = 'UPDATE_CONTACT'
+export const DELETE_CONTACT = 'DELETE_CONTACT'
+export const SET_SEARCH = 'SET_SEARCH'
+export const SET_SELECTED = 'SET_SELECTED'
+export const SET_UPDATE_OBJECT = 'SET_UPDATE_OBJECT'
+export const SET_PROPERTY = 'SET_PROPERTY'

@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Search Box Match Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "paddingLeft": 8,
+      "paddingRight": 8,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Search"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "backgroundColor": "#f0f0f0",
+        "borderBottomLeftRadius": 4,
+        "borderBottomRightRadius": 4,
+        "borderTopLeftRadius": 4,
+        "borderTopRightRadius": 4,
+        "fontSize": 14,
+        "paddingLeft": 4,
+      }
+    }
+    testID="search-box"
+    underlineColorAndroid="transparent"
+  />
+</View>
+`;

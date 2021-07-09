@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Action Buttons Match Snapshot cancel button in edit screen 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <Text
+    style={
+      Object {
+        "color": "#4d90fe",
+        "fontSize": 16,
+        "marginLeft": 8,
+      }
+    }
+  >
+    Cancel
+  </Text>
+</View>
+`;
+
+exports[`Test Action Buttons Match Snapshot save button in add screen 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <Text
+    style={
+      Object {
+        "color": "#4d90fe",
+        "fontSize": 16,
+        "marginRight": 8,
+      }
+    }
+  >
+    Save
+  </Text>
+</View>
+`;
+
+exports[`Test Action Buttons Match Snapshot save button in edit screen 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <Text
+    style={
+      Object {
+        "color": "#4d90fe",
+        "fontSize": 16,
+        "marginRight": 8,
+      }
+    }
+  >
+    Save
+  </Text>
+</View>
+`;

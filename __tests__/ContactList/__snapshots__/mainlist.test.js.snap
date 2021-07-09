@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Contact List Match Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 12,
+      "paddingLeft": 8,
+      "paddingRight": 8,
+    }
+  }
+>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "countryCode": "+91",
+          "firstName": "Manav",
+          "id": "q",
+          "image": "",
+          "lastName": "Mandal",
+          "mobile": "9999999999",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "padding": 4,
+                "paddingTop": 8,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "borderBottomWidth": 0,
+                  "paddingBottom": 8,
+                }
+              }
+              testID="contact"
+            >
+              <Text>
+                <Text
+                  style={
+                    Object {
+                      "backgroundColor": "yellow",
+                      "fontWeight": "bold",
+                    }
+                  }
+                >
+                  Manav
+                </Text>
+                 Mandal
+              </Text>
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
